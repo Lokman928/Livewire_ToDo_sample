@@ -1,6 +1,6 @@
 # A ToDo list webpage by using Laravel, Laravel Livewire and tailwind CSS
 
-This is an sample ToDo list webpage by using Laravel, Laravel Livewire and tailwind css.
+This is a sample ToDo list webpage by using Laravel, Laravel Livewire and tailwind css.
 
 ![](github_img/todo_animation.gif)
 
